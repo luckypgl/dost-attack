@@ -43,7 +43,7 @@ mkdir /m4qlo
 cd /m4qlo
 git clone https://github.com/dotfighter/torshammer.git
 git clone http://github.com/cyweb/hammer
-git clone https://github.com/zanyarjamal/xerxes
+git clone https://github.com/luckypgl/xrxes.git
 cd /m4qlo/xerxes
 gcc xerxes.c -o xerxes
 cd /m4qlo
